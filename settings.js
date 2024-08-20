@@ -4,26 +4,26 @@
 //Instagram: mikael_jordan
 //Telegram: t.me/darklimule
 //GitHub: @Limule3650
-//WhatsApp: +237693538738
+//WhatsApp: +50943589478
 //want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@Darklimule
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
+global.ownernomer = "50943589478"
 global.ownername = "🐉 Limule Solitarus"
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
 global.location = "India, Rampur, city"
 
-global.ownernumber = '237698581946'  //creator number
+global.ownernumber = '50943589478'  //creator number
 global.ownername = '🐉 Limule Solitarus' //owner name
 global.botname = 'DEATH RAPHAEL-BUG' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Limule Solitarus\n\nContact: +237698581946'
+global.author = 'Limule Solitarus\n\nContact: +50943589478
 
 //console view/theme
 global.themeemoji = '🪀'
